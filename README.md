@@ -4,7 +4,7 @@ Hello! This repository will be a location for my projects to be linked from my t
 The primary utilization will be a porfolio for future employers. 
 
 As Santosh Kalwar once said:
-> Coding is like peotry should be short and concise.
+> Coding is like poetry should be short and concise.
 
 Enjoy my code! 
 
